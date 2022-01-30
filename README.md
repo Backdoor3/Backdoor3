@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Backdoor3
-- 👀 I’m C# coder
+- 👀 I’m  coder
 (R E , C++ , C )
 
 <!---
